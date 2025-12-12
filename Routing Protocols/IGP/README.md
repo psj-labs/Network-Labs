@@ -1,3 +1,3 @@
-# IGP
+# IGP (Interior Gateway Protocol)
 
-This covers IGP among the various routing protocols
+IGP is a routing protocol used within a network’s own Autonomous System (AS), allowing internal routers to automatically calculate and exchange routing information.
